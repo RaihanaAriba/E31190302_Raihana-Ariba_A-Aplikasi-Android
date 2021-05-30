@@ -30,7 +30,7 @@
 
     <ImageView android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/qwe"
+        android:src="@drawable/womans"
         android:alpha="0.4"
         android:layout_centerVertical="true" android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"/>
